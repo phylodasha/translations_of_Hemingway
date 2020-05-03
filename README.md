@@ -1,2 +1,2 @@
 # translations_of_Hemingway
-This is a story about philological struggle coding and doing analysis during the quarantine at home surrounded by toxic  relatives
+Здесь питоновская тетрадка с кодом для моей курсовой и тексты для анализа. 
